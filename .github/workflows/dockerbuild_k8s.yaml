@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: connector-docker
+name: patroni-docker-for-k8s
 
 # Controls when the workflow will run
 on:
